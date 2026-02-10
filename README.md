@@ -593,9 +593,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/advanced-threat-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/advanced-threat-detection/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/XoTtic809/advanced-threat-detection/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/XoTtic809/advanced-threat-detection/discussions)
+- **Email**: xottic809@gmail.com
 
 ## 🔒 Security
 
