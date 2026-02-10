@@ -8,7 +8,7 @@ The Advanced Threat Detection System team takes security bugs seriously. We appr
 
 **Please DO NOT report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: **security@example.com**
+Instead, please report them via email to: **xottic809@gmail.com**
 
 ### What to Include
 
