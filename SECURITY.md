@@ -178,9 +178,9 @@ bandit -r .
 
 ## 📞 Contact
 
-- **Security Email**: security@example.com
-- **General Issues**: [GitHub Issues](https://github.com/yourusername/advanced-threat-detection/issues)
-- **Security Advisory**: [GitHub Security Advisories](https://github.com/yourusername/advanced-threat-detection/security/advisories)
+- **Security Email**: xottic809@gmail.com
+- **General Issues**: [GitHub Issues](https://github.com/XoTtic809/advanced-threat-detection/issues)
+- **Security Advisory**: [GitHub Security Advisories](https://github.com/XoTtic809/advanced-threat-detection/security/advisories)
 
 ## 🙏 Acknowledgments
 
