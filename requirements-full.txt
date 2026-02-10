@@ -1,0 +1,21 @@
+# Full dependencies including deep learning support
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Network capture (optional)
+scapy>=2.4.5
+
+# Web API (optional)
+flask>=2.0.0
+requests>=2.26.0
+
+# Visualization (optional)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
